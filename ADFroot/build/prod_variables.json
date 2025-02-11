@@ -6,7 +6,7 @@
             "value": "adf-adf-cicd-demo"
         },
         "blobstorage_properties_typeProperties_serviceEndpoint": {
-            "value": "https:///adfcicdproddmd.blob.core.windows.net/"
+            "value": "https://adfcicdproddmd.blob.core.windows.net/"
         }
     }
 }
