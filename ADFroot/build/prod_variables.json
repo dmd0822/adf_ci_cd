@@ -3,10 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "factoryName": {
-            "value": "adf-adf-cicd-demo"
+            "value": "adf-cicd-prod-dmd"
         },
         "blobstorage_properties_typeProperties_serviceEndpoint": {
-            "value": "https:///adfcicdproddmd.blob.core.windows.net/"
+            "value": "https://adfcicdproddmd.blob.core.windows.net/"
+        },
+        "blobstorage2_properties_typeProperties_serviceEndpoint": {
+            "value": "https://adfcicdproddmd.blob.core.windows.net/"
         }
     }
 }
